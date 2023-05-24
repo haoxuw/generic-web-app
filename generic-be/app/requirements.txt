@@ -1,0 +1,8 @@
+pyyaml
+pymongo
+fastapi[all]
+requests
+uvicorn
+
+isort
+black
